@@ -31,7 +31,7 @@
 ```bash
 docker-compose up -d (in project directory)
 
-then open Swagger here:
+After installation will be completed - just open Swagger here:
 http://localhost:5005/api/docs/
 ```
 
