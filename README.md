@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ npm install
+#docker-compose up -d (in project directory)
 ```
 
 ## Running the app
