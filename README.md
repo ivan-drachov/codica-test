@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-#docker-compose up -d (in project directory)
+docker-compose up -d (in project directory)
 ```
 
 ## Running the app
